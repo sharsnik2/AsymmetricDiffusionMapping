@@ -4,7 +4,8 @@ Functions for the application of Asymmetric Diffusion Mapping as detailed in A q
 
 
 Main pipeline:
-findPhaseSpace.m
+
+delayEmbedData.m
 
 buildAsymmetricDiffusionMap.m
 
