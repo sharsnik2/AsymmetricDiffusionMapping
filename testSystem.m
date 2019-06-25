@@ -19,7 +19,7 @@
 % along with this script.  If not, see <http://www.gnu.org/licenses/>.
 
 
-%% Parameters below have been fine tuned for this seed. May beed to retune for best results on other seeds
+%% Parameters below have been fine tuned for this seed. May need to retune for best results on other seeds
 rng(0)
 
 
